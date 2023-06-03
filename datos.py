@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://www.frases.net/frases-romanticas-para-enamorar-71.html"
+url = "https://www.frasess.net/frases-romanticas-para-enamorar-71.html"
 
 pagina = requests.get(url)
 
